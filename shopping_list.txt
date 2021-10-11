@@ -3,4 +3,5 @@ honey
 salt
 blackpepper-mill
 meat
-salladminced meat
+sallad
+minced meat
