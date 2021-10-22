@@ -1,4 +1,4 @@
-milk
+milk and sugar
 honey
 salt
 blackpepper-mill
@@ -6,3 +6,4 @@ meat
 sallad
 minced meat
 tea and scones
+
